@@ -1,4 +1,4 @@
-# Meteorologyclass
-Google Colab Notebooks Labs. This repo contains notebooks and Python scripts that can be used for teaching various meteorology-related course content.
+# Meteorology-Projects
+Google Colab Notebooks. This repo contains notebooks and Python scripts
 Data is sourced from reanalysis and model data. 
  
